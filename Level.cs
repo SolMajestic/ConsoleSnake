@@ -14,5 +14,8 @@ namespace ConsoleSnake
         public double maxTick { get; }
         public double startLength { get; }
         public double endLength { get; }
+        
+        public double maxLengthFromMoney { get; }
+        public double minLengthFromMoney { get; }
     }
 }
